@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "gacp": "git add package-lock.json package.json server.js  && git commit -m \"commit\" && git push"
+    "gacp": "git add package-lock.json package.json server.js Procfile && git commit -m \"commit\" && git push"
   },
   "keywords": [],
   "author": "",
